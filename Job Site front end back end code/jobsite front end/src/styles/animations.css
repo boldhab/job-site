@@ -1,0 +1,30 @@
+/* Animation styles */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes slideIn {
+  from {
+    transform: translateX(-100%);
+  }
+  to {
+    transform: translateX(0);
+  }
+}
+
+.fade-in {
+  animation: fadeIn 0.3s ease-in;
+}
+
+.animate-fadeIn {
+  animation: fadeIn 0.5s ease-out fill-mode-forwards;
+}
+
+.slide-in {
+  animation: slideIn 0.3s ease-out;
+}
