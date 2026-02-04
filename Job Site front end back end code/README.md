@@ -378,11 +378,8 @@ This project is ready to run out of the box. Simply:
 ## 📝 Developers
 
 
-1.  Habtamu Befekadu………………………………..…………..….DBU1601222
-2.  Habtamu Shewamene ……………………………………….…..DBU1601219
-3. Henok Kebede ……………………………………….………….DBU1601252
-4. Melat Kassahun………………………………………………….DBU1601348
-5. Icon Grma………………………………………………………..DBU1601262
+1.  Habtamu Befekadu………
+
 
 **Built with ❤️ for Ethiopian Professionals**
 
